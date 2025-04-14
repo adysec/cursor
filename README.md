@@ -13,7 +13,7 @@ This guide explains how to install Cursor 0.48.8 on an AMD64 architecture runnin
 
 ### Download the `.deb` Installation Package
 
-(Cursor_0.xx.x_amd64.deb)[https://github.com/adysec/cursor/releases/latest]
+[Cursor_0.xx.x_amd64.deb](https://github.com/adysec/cursor/releases/latest)
 
 ### Install Cursor
 
