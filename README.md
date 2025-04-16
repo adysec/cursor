@@ -58,5 +58,3 @@ sudo apt remove --purge cursor
 For more information or support, please visit the official Cursor website:
 
 [https://www.cursor.com](https://www.cursor.com)
-
-This README is designed to provide clear installation instructions for installing Cursor 0.48.8 on Ubuntu 24.04 without the need for additional dependencies.
