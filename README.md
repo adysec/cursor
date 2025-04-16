@@ -20,7 +20,7 @@ This guide explains how to install Cursor 0.48.8 on an AMD64 architecture runnin
 Open a terminal and run the following command to install the `.deb` package
 
 ```bash
-sudo dpkg -i Cursor_0.48.8_amd64.deb
+sudo dpkg -i Cursor_0.xx.x_amd64.deb
 ```
 
 ### Launch Cursor
