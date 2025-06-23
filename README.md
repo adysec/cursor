@@ -21,6 +21,9 @@ Open a terminal and run the following command to install the `.deb` package
 
 ```bash
 sudo dpkg -i Cursor_0.xx.x_amd64.deb
+chmod -R go-w /usr/share/zsh/vendor-completions/_cursor
+chmod +777 /usr/share/zsh/vendor-completions/_cursor
+autoload -Uz compinit && compinit
 ```
 
 ### Launch Cursor
